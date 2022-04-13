@@ -2,9 +2,9 @@ import pandas as pd
 import numpy as np
 import string
 import os.path
-import sys
+#import sys
 
-temp = sys.argv[1]
+#temp = sys.argv[1]
 
 f_pos = 'D:/CSV/ex/'
 f_type = '.xlsx'
